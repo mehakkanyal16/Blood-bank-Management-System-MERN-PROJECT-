@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Blood-Bank-Mern-Stack-Project
 complete mern stack blood bank project source code please check commits
 
@@ -12,3 +13,6 @@ https://www.instagram.com/technical_update/
 
 
 
+=======
+# Blood-bank-Management-System
+>>>>>>> origin/main
